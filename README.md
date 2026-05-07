@@ -45,15 +45,6 @@ You may **assume** a customer in industries such as **banking, retail, or teleco
 
 ---
 
-## 🧩 Expected Approach
-
-We expect you to demonstrate how you take this scenario from:
-
-👉 **Problem → Value → Deal Advancement → Closure**
-
-
----
-
 ## 💡 1. Solution & Value Proposition
 
 Show how you convert the problem into a **compelling, sellable solution**:
