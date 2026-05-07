@@ -51,24 +51,10 @@ We expect you to demonstrate how you take this scenario from:
 
 👉 **Problem → Value → Deal Advancement → Closure**
 
----
-
-## 🔍 1. Discovery & Understanding
-
-Demonstrate how you would open, qualify, and shape the opportunity:
-
-- Clear problem hypothesis (business-driven, not only technical)  
-- Discovery questions designed to uncover **economic impact and urgency**  
-- Identification of critical pain points  
-- Stakeholder mapping (economic buyer, influencers, blockers)  
-- Opportunity assessment:
-  - Winnability  
-  - Value potential  
-  - Key risks  
 
 ---
 
-## 💡 2. Solution & Value Proposition
+## 💡 1. Solution & Value Proposition
 
 Show how you convert the problem into a **compelling, sellable solution**:
 
@@ -84,7 +70,7 @@ Show how you convert the problem into a **compelling, sellable solution**:
 
 ---
 
-## 🧪 3. PoV / Demo Strategy
+## 🧪 2. PoV / Demo Strategy
 
 Demonstrate a **closing-oriented mindset**:
 
