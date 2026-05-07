@@ -81,7 +81,7 @@ This exercise is an opportunity to demonstrate your readiness to operate as a Le
 
 ---
 
-## References
+## Reference
 Customer Stories -> https://www.dynatrace.com/customers/?industries=&use-cases=&language=en
 
 
