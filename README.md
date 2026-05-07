@@ -4,6 +4,23 @@
 
 ---
 
+## 📅 Delivery Format
+
+- Slides presentation (PowerPoint or similar)
+   
+## 🧑‍💼 Executive Presentation
+
+Prepare a **25–30 minute executive-level presentation**:
+
+- Customer context and core problem  
+- Business impact (speak the language of executives)  
+- Proposed solution (focused on outcomes)  
+- Expected value  
+- Clear next steps to **advance toward closing**  
+
+---
+
+
 ## 📌 Overview
 
 As part of the evaluation process for the Lead Solutions Engineer role, this capstone is designed to assess the ability to:
@@ -24,7 +41,7 @@ You will work on an enterprise customer scenario with the following challenges:
 - Limited end-to-end visibility  
 - Strong business pressure to improve digital experience and operational efficiency  
 
-You may assume a customer in industries such as **banking, retail, or telecommunications in Mexico**.
+You may **assume** a customer in industries such as **banking, retail, or telecommunications in Mexico**.
 
 ---
 
@@ -81,37 +98,6 @@ Demonstrate a **closing-oriented mindset**:
 
 ---
 
-## 🧑‍💼 4. Executive Presentation
-
-Prepare a **20–25 minute executive-level presentation**:
-
-- Customer context and core problem  
-- Business impact (speak the language of executives)  
-- Proposed solution (focused on outcomes)  
-- Expected value  
-- Clear next steps to **advance toward closing**  
-
----
-
-## ✅ Evaluation Criteria
-
-We will assess your ability to:
-
-- Think like a **business partner, not just a technical expert**  
-- Structure a winnable opportunity  
-- Drive value creation and differentiation  
-- Show a strong pre-sales mindset focused on **pipeline and closure**  
-- Communicate with clarity and executive-level storytelling  
-
----
-
-## 📅 Delivery Format
-
-- Slides presentation (PowerPoint or similar)  
-- Live presentation session (20–25 minutes + Q&A)  
-
----
-
 ## 📌 Final Note
 
-This exercise is an opportunity to demonstrate your readiness to operate not only as a Solutions Engineer, but as a **pre-sales leader who directly impacts revenue and deal closure**.
+This exercise is an opportunity to demonstrate your readiness to operate as a Lead Solutions Engineer.
