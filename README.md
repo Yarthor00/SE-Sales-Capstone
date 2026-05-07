@@ -78,3 +78,10 @@ Demonstrate a **closing-oriented mindset**:
 ## 📌 Final Note
 
 This exercise is an opportunity to demonstrate your readiness to operate as a Lead Solutions Engineer.
+
+---
+
+## References
+Customer Stories -> https://www.dynatrace.com/customers/?industries=&use-cases=&language=en
+
+
